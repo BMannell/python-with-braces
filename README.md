@@ -24,7 +24,7 @@ WARRANTIES.
 This Python distribution contains no GNU General Public Licensed
 (GPLed) code so it may be used in proprietary projects just like prior
 Python distributions.  There are interfaces to some GNU code but these
-are entirely optional.
+are entirely optional.`
 
 All trademarks referenced herein are property of their respective
 holders.
